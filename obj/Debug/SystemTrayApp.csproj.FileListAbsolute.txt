@@ -1,0 +1,70 @@
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+D:\Documents\Work\7. Alien GitHub Projects\SystemTrayApp-master\SystemTrayApp-master\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+D:\Documents\Work\4. Programming Learning\C#\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+D:\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+D:\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\SystemTray\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+D:\SystemTray\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+D:\KnightRider_VisualStudioProject\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+D:\KnightRider_VisualStudioProject\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\KnightRider_VisualStudioProject\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+D:\KnightRider_VisualStudioProject\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+D:\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider - custom_menu\SystemTrayApp\obj\Debug\SystemTrayApp.pdb
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.exe.config
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csprojAssemblyReference.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.AppWindow.resources
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.Properties.Resources.resources
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.GenerateResource.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.exe
+C:\Users\Benjamin\OneDrive\Documents\Work\1. Projects\KnightRider\SystemTrayApp\obj\Debug\SystemTrayApp.pdb

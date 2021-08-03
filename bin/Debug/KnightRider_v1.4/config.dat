@@ -1,0 +1,5 @@
+hdd_led_color: 255, 0, 0
+hdd_led_time_on: 0.5
+
+cpu_threshold_led_color: 255, 0, 255
+cpu_threshold_led_time_on: 1
